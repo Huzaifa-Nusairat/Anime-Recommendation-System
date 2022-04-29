@@ -1,8 +1,6 @@
-//![alt text](github_url_image?raw=true)to add image
-
--   ## Title of the project
-
-prepared by:
+-   ## Anime Recommendation System
+![alt text](https://github.com/Huzaifa-Nusairat/Anime-Recommendation-System/blob/master/Images/wp5104313-shonen-jump-all-anime-wallpapers%20(1).jpg?raw=true)
+prepared by: Huzaifa Nusairat
 
 -   ## problem overview
 
